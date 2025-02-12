@@ -27,15 +27,3 @@ Tired of repeatedly setting up MERN stack projects for testing? **This tool auto
 2️⃣ **Run the file** and follow the prompts
 3️⃣ **Select a framework** (React, Vue, or Svelte)
 4️⃣ **Done!** Your project is set up and ready to go 🎉
-
----
-
-## ⚡ Quick Commands
-
-After setup, run:
-
-### **Start Backend**
-
-```bash
-cd backend && node server.js
-```
